@@ -1,0 +1,69 @@
+       h3 {
+      text-align: right;
+      color: rgb(255, 255, 255);
+        }
+        h1 {
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        h4 {
+            text-align: right;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        h2 {
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        p {
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        h5{
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+ 
+        body {
+            background-image: url('fondo.jpg');
+            background-size:contain;
+        }
+        li {
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            
+        }
+        .netflix{
+            text-align: left;
+            color: rgb(255, 0, 0);
+            font-family: Roboto Condensed;
+        }
+        .comenzar {
+            background-color: rgb(255, 0, 0);
+            text-align: center;
+
+        }
+        .tende {
+            text-align: left;
+        }
+        
+        
+        button {
+            background-color: rgb(255, 0, 0);
+            border-radius: 2pc;
+        }
+        .español {
+            border-style: solid;
+            border-width: 1px;
+            width: fit-content;
+            padding: auto;
+        }
+        .gmail {
+            border-style: solid;
+            border-width: 1px;
+            width: fit-content;
+        }
